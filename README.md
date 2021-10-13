@@ -1,4 +1,4 @@
-# SYNAPSI.XYZ Recruitment challenge
+# tasks_python
 
 -------------------------------------
 
@@ -27,13 +27,13 @@ It's just Python. Python 3.
 After download files from github by tapping in your terminal:
 
 ```
-git clone https://github.com/KamilCoder/xyz_ONE/
+git clone https://github.com/KamilCoder/tasks_python.git
 ```
 
-Go to directory xyz_ONE:
+Go to directory taks_python:
 
 ```
-cd xyz_ONE
+cd tasks_python
 ```
 
 Next run interested tasks from terminal by:
