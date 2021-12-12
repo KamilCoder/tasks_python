@@ -1,6 +1,5 @@
 # tasks_python
 
-
 -------------------------------------
 
 ### Table of content
